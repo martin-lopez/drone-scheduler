@@ -1,6 +1,9 @@
+# Drone Delivery Scheduling
+Final Project completed as part of a Real-Time Systems and Software college course
+
 # 1635-FP
 
-To Run (same as for assignment 3)
+To Run
 
 1) Start DisplayServer
 
